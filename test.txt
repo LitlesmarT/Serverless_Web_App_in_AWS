@@ -1,1 +1,1 @@
-this is a test to check git sunchronization.
+this is a test 2 to check git sunchronization.
