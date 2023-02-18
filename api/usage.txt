@@ -1,0 +1,2 @@
+#get the url
+uvicorn api:app --reload
